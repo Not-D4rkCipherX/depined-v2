@@ -21,10 +21,10 @@ DePINed BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/DePINed-BOT.git
+   git clone https://github.com/Not-D4rkCipherX/depined-v2.git
    ```
    ```bash
-   cd DePINed-BOT
+   cd depined-v2
    ```
 
 2. **Install Requirements:**
