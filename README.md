@@ -29,9 +29,11 @@ DePINed BOT
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
-
+```
+nano accounts.json
+```
 ## Configuration
 
 - **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
@@ -58,7 +60,7 @@ DePINed BOT
 ## Run
 
 ```bash
-python bot.py #or python3 bot.py
+python bot.py 
 ```
 
 
